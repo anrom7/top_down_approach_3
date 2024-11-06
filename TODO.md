@@ -33,7 +33,7 @@ Project Description
 ### Todo
 
 - [ ] Створити gradebook ~3d #feat @john 2020-03-20
-
+  - [ ] Створити пустий грейдбук
   - [ ] Додавання списку студентів 
     - [ ] Створити функцію add_students(path, gradebook)      
   - [ ] Видалення активності
